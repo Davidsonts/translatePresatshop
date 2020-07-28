@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/cloud-translate": "^1.8",
+        "vlucas/phpdotenv": "^5.1"
+    }
+}
